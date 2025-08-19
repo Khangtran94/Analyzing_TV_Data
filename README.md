@@ -1,7 +1,7 @@
 # Analyzing TV Data for SuperBowl
 
 ## Overview
-This project focuses on analyzing television broadcast data, specifically exploring datasets related to the Super Bowl and the hit sitcom *The Office*. Using Python, the project involves data manipulation, cleaning, and visualization to uncover insights into game outcomes, viewership trends, ad costs, halftime shows, and episode ratings. The analysis aims to provide a deeper understanding of television viewership patterns and their cultural impact.
+This project focuses on analyzing television broadcast data, specifically exploring datasets related to the Super Bowl and the tv metrics, halftime musicians. Using Python, the project involves data manipulation, cleaning, and visualization to uncover insights into game outcomes, viewership trends, ad costs, halftime shows, and episode ratings. The analysis aims to provide a deeper understanding of television viewership patterns and their cultural impact.
 
 ## Dataset
 The project utilizes two primary datasets:
